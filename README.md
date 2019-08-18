@@ -1,3 +1,3 @@
 # Python-toolbox
-Several tool to use for projects or work, now including the following:
+Several tools for projects or work need, now including the following:
 Streaming Data Visualization
